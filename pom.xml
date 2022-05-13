@@ -22,11 +22,11 @@
   <distributionManagement>
     <snapshotRepository>
       <id>nexusdeploymentrepo</id>
-      <url>http://34.125.145.185:8081/repository/maven-snapshots/</url>
+      <url>http://13.126.197.118:8081/mithuntechnologies/repository/walmart_snapshot/</url>
     </snapshotRepository>
 	<repository>
 	  <id>nexusdeploymentrepo</id>
-      <url>http://34.125.145.185:8081/repository/maven-releases/</url>
+      <url>http://http://13.126.197.118:8081/mithuntechnologies/repository/maven_release/</url>
     </repository>
   
   </distributionManagement>
